@@ -4,7 +4,7 @@
 
 ## :clipboard: Índice
 
-- [Projetos realizados durante o curso](#projetos-realizados-durante-o-curso)
+- [Projetos realizados durante o curso](#computer-projetos-realizados-durante-o-curso)
 - [Sobre](#book-sobre)
 - [Módulos do curso](#rocket-modulos-do-curso)
 - [Como executar](#como-executar)
