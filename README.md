@@ -51,6 +51,24 @@ Segue capítulos do curso:
 - [ ] Webpack
 - [ ] JQuery
 - [ ] Bootstrap
+- [ ] Projeto Galeria (Bootstrap/jQuery/Webpack)
+- [ ] React
+- [ ] Projeto Calculadora
+- [ ] Projeto Cadastro de Usuário
+- [ ] VueJS
+- [ ] Projeto VueJS
+- [ ] Projeto Calculadora (Vue)
+- [ ] Projeto Monty Hall (Vue)
+- [ ] Aplicação Desktop com Javascript, Eletron JS e VueJS
+- [ ] Angular 9
+- [ ] Banco Relacional
+- [ ] Banco Não Relacional
+- [ ] Express
+- [ ] Projeto Base de Conhecimento - Backend
+- [ ] Projeto Base de Conhecimento - Frontend
+- [ ] Publicando uma Aplicação VueJS na Amazon
+- [ ] Conclusão Curso Desenvolvimento Web
+- [ ] Gulp - Versão 3 [ LEGADO ]
 
 ---
 
