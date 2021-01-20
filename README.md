@@ -4,10 +4,10 @@
 
 ## :clipboard: Índice
 
-- [Projetos realizados durante o curso](#-Projetos-realizados-durante-o-curso)
-- [Sobre](##-Sobre)
-- [Módulos do curso](##-Módulos-do-curso)
-- [Como executar](#-Como-executar)
+- [Projetos realizados durante o curso](##Projetos-realizados-durante-o-curso)
+- [Sobre](##Sobre)
+- [Módulos do curso](##Módulos-do-curso)
+- [Como executar](##Como-executar)
 
 ---
 
@@ -27,7 +27,7 @@ Link para o curso: **[Web Moderno Completo com JavaScript 2020 + Projetos](https
 
 ## :rocket: Módulos do curso
 
-O curso teve como capítulos:
+Segue capítulos do curso:
 
 - [x] Configuração do Ambiente
     - **[Instalação Node (Windows/Mac) - Curso Desenvolvimento Web](https://nodejs.org/en/download/)**
