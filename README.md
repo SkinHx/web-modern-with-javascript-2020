@@ -1,21 +1,19 @@
 <p align="center">
-    <img src="">
+    <img src="img/public/banner.jpg">
 </p>
 
 ## :clipboard: Índice
 
+- [Projetos realizados durante o curso](#-Projetos-realizados-durante-o-curso)
 - [Sobre](##-Sobre)
 - [Módulos do curso](##-Módulos-do-curso)
 - [Como executar](#-Como-executar)
-- [Preview](#-Preview)
 
 ---
 
-## :computer: Preview
+## :computer: Projetos realizados durante o curso
 
-<p align="center">
-    <img src="" width="700">
-</p>
+**[Projeto: API com Express](https://github.com/SkinHx/api-with-express)**
 
 ---
 
