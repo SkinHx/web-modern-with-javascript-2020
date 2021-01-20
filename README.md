@@ -5,7 +5,7 @@
 ## :clipboard: Índice
 
 - [Projetos realizados durante o curso](#projetos-realizados-durante-o-curso)
-- [Sobre](#sobre)
+- [Sobre](#book-sobre)
 - [Módulos do curso](#modulos-do-curso)
 - [Como executar](#como-executar)
 
