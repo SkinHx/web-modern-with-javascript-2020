@@ -6,7 +6,7 @@
 
 - [Projetos realizados durante o curso](#projetos-realizados-durante-o-curso)
 - [Sobre](#book-sobre)
-- [Módulos do curso](#modulos-do-curso)
+- [Módulos do curso](#rocket-modulos-do-curso)
 - [Como executar](#como-executar)
 
 ---
