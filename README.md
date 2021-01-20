@@ -19,7 +19,7 @@
 
 ## :book: Sobre
 
-Esse repósitorio foi criado como forma de me auxiliar futuramente com revisões, espero que assim como o grupo **[@Cod3r](https://github.com/cod3rcursos)** me ajudou a ampliar meu conhecimento, eu possa ajudar algum desenvolvedor iniciante com meu perfil.
+Esse repositório foi criado como forma de me auxiliar futuramente com revisões, espero que assim como o grupo **[@Cod3r](https://github.com/cod3rcursos)** me ajudou a ampliar meu conhecimento, eu possa ajudar algum desenvolvedor iniciante com meu perfil.
 
 Link para o curso: **[Web Moderno Completo com JavaScript 2020 + Projetos](https://www.udemy.com/course/curso-web/)**
 
@@ -57,7 +57,7 @@ Segue capítulos do curso:
 ## Como executar
 
 ```bash
-# Clone o repósitorio
+# Clone o repositório
 git clone https://github.com/SkinHx/web-modern-with-javascript-2020.git
 
 # Entrar no diretório
