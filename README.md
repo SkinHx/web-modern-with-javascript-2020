@@ -42,7 +42,7 @@ Segue capítulos do curso:
 - [x] Lista de Exercícios de Javascript (Não listada)
 - [x] Node 
 - [x] ESNext
-- [ ] Conceitos sobre Web
+- [x] Conceitos sobre Web
 - [ ] HTML
 - [ ] CSS
 - [ ] Integrando HTML, CSS e JS
