@@ -41,7 +41,7 @@ Segue capítulos do curso:
 - [x] Javascript: Array
 - [x] Lista de Exercícios de Javascript (Não listada)
 - [x] Node 
-- [ ] ESNext
+- [x] ESNext
 - [ ] Conceitos sobre Web
 - [ ] HTML
 - [ ] CSS
