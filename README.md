@@ -43,7 +43,7 @@ Segue capítulos do curso:
 - [x] Node 
 - [x] ESNext
 - [x] Conceitos sobre Web
-- [ ] HTML
+- [x] HTML
 - [ ] CSS
 - [ ] Integrando HTML, CSS e JS
 - [ ] Ajax
