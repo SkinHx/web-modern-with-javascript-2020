@@ -44,7 +44,7 @@ Segue capítulos do curso:
 - [x] ESNext
 - [x] Conceitos sobre Web
 - [x] HTML
-- [ ] CSS
+- [x] CSS
 - [ ] Integrando HTML, CSS e JS
 - [ ] Ajax
 - [ ] Gulp
